@@ -1,8 +1,3 @@
-<img src="banner/ejpt_image.jpeg" alt="Ejpt Roadmap Logo" height=350>
-
-<br>
-<hr>
-
 # Ejpt Roadmap
 
 ## Table of Contents
@@ -54,8 +49,8 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Assessment Methodologies - Information Gathering   | [ ]       |
 |                | Assessment Methodologies - Footprinting and Scanning| [ ]       |
-| Tryhackme       |  [Hacker Methodology](https://tryhackme.com/room/hackermethodology)| [ ]       |
-|                |  [Intro To Research](https://tryhackme.com/room/introtoresearch)| [ ]       |
+| Tryhackme       |  [Hacker Methodology](https://tryhackme.com/room/hackermethodology)| [1]       |
+|                |  [Intro To Research](https://tryhackme.com/room/introtoresearch)| [1]       |
 |                |  [Passive Recon](https://tryhackme.com/room/passiverecon)| [ ]       |
 |                |  [Active Recon](https://tryhackme.com/room/activerecon)| [ ]       |
 |                |  [Nmap](https://tryhackme.com/room/furthernmap) | [ ]       |
